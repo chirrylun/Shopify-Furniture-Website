@@ -4,3 +4,22 @@
     list-style: none;
     text-decoration: none;
 }
+.sale{
+    padding: 0px 20px;
+    background-color: peru;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.sale p{
+    color: white;
+}
+.sale ul{
+    display: flex;
+}
+.sale ul li{
+    margin: 10px;
+}
+.sale ul li a{
+    color: white;
+}
